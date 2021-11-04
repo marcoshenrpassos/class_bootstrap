@@ -1,0 +1,29 @@
+body{
+    font-size: 20px;
+}
+
+.navbar{
+    background-color: #99CE68;
+}
+
+.about-us{
+    background-color: bisque;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.partners{
+    background-color: #5ECBEE;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.services{
+    background-color: #EFB53B;
+}
